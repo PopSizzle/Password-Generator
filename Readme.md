@@ -37,7 +37,7 @@ function createPassword(){
 
 ## Deployed Link
 
-* [https://popsizzle.github.io/Password-Generator/](#)
+* ![https://popsizzle.github.io/Password-Generator/](#)
 
 
 ## Author
